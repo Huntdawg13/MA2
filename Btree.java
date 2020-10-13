@@ -1,3 +1,10 @@
+/*
+Name: Hunter McClure
+CptS 233: MicroAssignment #2
+Date: 10/12/2020
+gitRepo url: https://github.com/Huntdawg13/MA2.git
+
+*/
 // Java program to illustrate the sum of two numbers 
 
 // A BTree 

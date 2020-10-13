@@ -1,3 +1,11 @@
+/*
+Name: Hunter McClure
+CptS 233: MicroAssignment #2
+Date: 10/12/2020
+gitRepo url: https://github.com/Huntdawg13/MA2.git
+
+*/
+
 // A BTree node 
 class BTreeNode { 
 	int[] keys; // An array of keys 
